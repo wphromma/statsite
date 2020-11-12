@@ -4,7 +4,7 @@ Statsite [![Build Status](https://travis-ci.org/statsite/statsite.png)](https://
 Statsite is a metrics aggregation server. Statsite is based heavily
 on Etsy's StatsD <https://github.com/etsy/statsd>, and is wire compatible.
 
-Features
+Features test
 --------
 
 * Multiple metric types
